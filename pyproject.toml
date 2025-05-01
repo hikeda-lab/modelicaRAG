@@ -1,0 +1,19 @@
+[project]
+name = "modelicarag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "black>=25.1.0",
+    "faiss-cpu>=1.11.0",
+    "gitpython>=3.1.44",
+    "isort>=6.0.1",
+    "jupyterlab>=4.4.1",
+    "jupyterlab-code-formatter>=3.0.2",
+    "langchain-community>=0.3.23",
+    "langchain>=0.3.24",
+    "openai>=1.76.2",
+    "sentence-transformers>=4.1.0",
+    "tiktoken>=0.9.0",
+]
